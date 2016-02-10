@@ -1,3 +1,10 @@
+# Eclipse
+.buildpath
+.project
+.settings/
+Framework/Connection_Data.php
+img-up/
+
 # CakePHP 3
 
 /vendor/*
